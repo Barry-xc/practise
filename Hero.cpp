@@ -9,7 +9,7 @@ HERO Knight;			//骑士结构体
 Weapon Weapon1;			//武器结构体
 Bullet* bullet[1000000];//子弹结构体
 int cpcy=0;				//子弹结构体数组下标		
-int shoot=12;			//子弹射击方向
+int shoot=15;			//子弹射击方向
 int count=0;			//子弹时间计数器
 int bullet_speed = 4;	//子弹发射时间间隔
 
